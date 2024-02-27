@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "copyright": "Demo",
+  "num_results": 1,
+  "results": [
+    {
+      "uri": "https://www.example.com/news/123",
+      "url": "https://www.example.com/article/123",
+      "id": 123,
+      "asset_id": 456,
+      "source": "Example News",
+      "published_date": "2022-03-01",
+      "updated": "2022-03-02T10:30:00Z",
+      "section": "Politics",
+      "subsection": "Elections",
+      "nytdsection": "politics",
+      "adx_keywords": "elections, candidates",
+      "column": null,
+      "byline": "John Doe",
+      "type": "Article",
+      "title": "Example News Article",
+      "abstract": "This is an example news article.",
+      "des_facet": [
+        "politics",
+        "elections"
+      ],
+      "org_facet": [
+        "Example News"
+      ],
+      "per_facet": [
+        "John Doe"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Example Image",
+          "media-metadata": [
+            {
+              "url": "https://www.example.com/image.jpg",
+              "format": "Standard Thumbnail"
+            }
+          ]
+        }
+      ],
+      "eta_id": 789
+    }
+  ]
+}

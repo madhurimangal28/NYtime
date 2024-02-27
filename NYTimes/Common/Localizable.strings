@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  NYTimes
+ 
+*/
+
+
+"homeNavTitle" = "Home";
+"articleListTableView" = "article_list";
+"articleDetailTableView" = "article_detail";
+"detailNavTitle" = "Article Details";
+"apiError" = "Something went wrong";
+"calenderIcon" = "🗓️";
